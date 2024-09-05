@@ -1,3 +1,5 @@
+package binaryoperator;
+
 public class Assigment {
     public static void main(String[] args) {
         int  x = 5;

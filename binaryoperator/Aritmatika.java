@@ -1,4 +1,4 @@
-package binaryoperator;
+package unaryoperator;
 
 public class Aritmatika {
 
@@ -10,6 +10,6 @@ public class Aritmatika {
         System.out.println(operand1 - operand2); // 16
         System.out.println(operand1 * operand2); // 80
         System.out.println(operand1 / operand2); // 5
-        System.out.println(operand1 % operand2); //
+        System.out.println(operand1 % operand2); // 0
     }
 }
